@@ -383,7 +383,7 @@ return 0;
 
 ## Output -
 ### 1.*Entering elements of matrix -*
-
+![Screenshot 2024-08-22 225803](https://github.com/user-attachments/assets/731b0f3e-4d9e-44f8-ad3f-e10417253854)
 
 ### 2.*Addition of two matrices -*
 
