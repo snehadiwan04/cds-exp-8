@@ -386,7 +386,7 @@ return 0;
 ![Screenshot 2024-08-22 225803](https://github.com/user-attachments/assets/731b0f3e-4d9e-44f8-ad3f-e10417253854)
 
 ### 2.*Addition of two matrices -*
-
+![Screenshot 2024-08-22 230851](https://github.com/user-attachments/assets/9495b839-c1fe-40f8-a673-bc6a7718458c)
 
 ### 3.*Subtraction of two matrices -*
 
