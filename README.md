@@ -5,6 +5,9 @@ To study and implement C++ 2D array matrices
 ## THEORY
 Matrices in C++ are represented as 2D arrays. They are used to store and manipulate data in a structured, tabular form.
 
+## Apparatus Used
+VS Code
+
 ### 1.Introduction to Matrices :
 A matrix is a collection of elements arranged in rows and columns.<br>
 In C++, matrices are typically implemented using 2D arrays.
@@ -372,10 +375,10 @@ void printDiagonalSums(int mat[][MAX], int n)
 
 int main() 
 { 
-    int a[][MAX] = {{1, 2, 3, 4},  
+    int a[][MAX] = {{1, 12, 3, 4},  
                     {5, 6, 7, 8},  
-                    {1, 2, 3, 4},  
-                    {5, 6, 7, 8}}; 
+                    {1, 2, 4, 9},  
+                    {5, 6, 5, 3}}; 
     printDiagonalSums(a, 4); 
 return 0;
 }
@@ -390,12 +393,15 @@ return 0;
 
 ### 3.*Subtraction of two matrices -*
 ![Screenshot 2024-08-22 231412](https://github.com/user-attachments/assets/e986eabc-8472-428f-98a3-f34ffdc9d786)
+
 ### 4.*Multiplication of two matrices -*
 ![Screenshot 2024-08-22 231922](https://github.com/user-attachments/assets/8a909e68-834f-4d11-ba0b-f1056ca26e5a)
+
 ### 5.*Transpose of a matrix -*
 ![Screenshot 2024-08-22 232338](https://github.com/user-attachments/assets/1660c7bf-d358-41a5-8553-cb0808747bb1)
-### 6. *Diagnol addition of a matrix -*
 
+### 6. *Diagnol addition of a matrix -*
+![Screenshot 2024-08-22 232858](https://github.com/user-attachments/assets/63ead784-a9e9-4098-befa-49c3107a52df)
 
 ## Conclusion -
 This experiment provides valuable insight into fundamental concepts in programming, particularly in handling data structures that require multi-dimensional organization. Through this process, we gain a deeper understanding of how to: <br>
