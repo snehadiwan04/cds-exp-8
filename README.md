@@ -389,7 +389,7 @@ return 0;
 ![Screenshot 2024-08-22 230851](https://github.com/user-attachments/assets/9495b839-c1fe-40f8-a673-bc6a7718458c)
 
 ### 3.*Subtraction of two matrices -*
-
+![Screenshot 2024-08-22 231412](https://github.com/user-attachments/assets/e986eabc-8472-428f-98a3-f34ffdc9d786)
 ### 4.*Multiplication of two matrices -*
 
 ### 5.*Transpose of a matrix -*
