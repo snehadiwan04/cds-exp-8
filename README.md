@@ -391,7 +391,7 @@ return 0;
 ### 3.*Subtraction of two matrices -*
 ![Screenshot 2024-08-22 231412](https://github.com/user-attachments/assets/e986eabc-8472-428f-98a3-f34ffdc9d786)
 ### 4.*Multiplication of two matrices -*
-
+![Screenshot 2024-08-22 231922](https://github.com/user-attachments/assets/8a909e68-834f-4d11-ba0b-f1056ca26e5a)
 ### 5.*Transpose of a matrix -*
 
 ### 6. *Diagnol addition of a matrix -*
