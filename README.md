@@ -393,7 +393,7 @@ return 0;
 ### 4.*Multiplication of two matrices -*
 ![Screenshot 2024-08-22 231922](https://github.com/user-attachments/assets/8a909e68-834f-4d11-ba0b-f1056ca26e5a)
 ### 5.*Transpose of a matrix -*
-
+![Screenshot 2024-08-22 232338](https://github.com/user-attachments/assets/1660c7bf-d358-41a5-8553-cb0808747bb1)
 ### 6. *Diagnol addition of a matrix -*
 
 
