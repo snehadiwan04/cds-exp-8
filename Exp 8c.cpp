@@ -1,11 +1,8 @@
-//ssneha diwan
+//Sneha diwan
 //entc B2
 //23070123126
 //experiment 8
-//ssneha diwan
-//entc B2
-//23070123126
-//experiment 8
+
 #include <iostream>
 using namespace std;
 int main() 
