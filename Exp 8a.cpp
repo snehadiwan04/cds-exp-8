@@ -1,4 +1,4 @@
-//ssneha diwan
+//sneha diwan
 //entc B2
 //23070123126
 //experiment 8
